@@ -4,7 +4,7 @@ RealUWIQ is a real-world benchmark dataset for evaluations of underwater image e
 # Download
 You can download RealUWIQ on [Baidu Cloud](https://pan.baidu.com/s/1McpOd7HtJqtdcJ_QtRBnVg) drive.
 
-You can download the corresponding [subjective evaluation data](https://pan.baidu.com/s/1Um2hsCYGNPCQBoXJjyznpw) on Baidu Cloud drive.
+You can download the corresponding subjective evaluation data on [Baidu Cloud](https://pan.baidu.com/s/1Um2hsCYGNPCQBoXJjyznpw) drive.
 # References
 If our datasets and criteria are helpful, please consider citing the following papers.
 
